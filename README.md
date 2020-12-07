@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there , I'm Keter Smith
 
-<!--
-**Jupiter-king/Jupiter-king** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As you can see,I am a fan of SCP.
 
-Here are some ideas to get you started:
+![image-20201207090907803](README.assets/image-20201207090907803.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Jupiter-king)]()
+
+- This is my trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jupiter-king)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+<center>Hope we all have a bright future.</center>
+
