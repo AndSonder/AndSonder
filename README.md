@@ -2,11 +2,11 @@
 
 I'm `Chang Lu` aka `Sonder`  
 
-`Coffee` and `Tennis` makes me intrested. You can visit my personal blog website at [https://space.keter.top](https://space.keter.top). I recorded most of what I have learned at my blog website.
+`Coffee` and `Tennis` make me interested. You can see my personal blog website at [https://space.keter.top](https://space.keter.top). I recorded most of what I have learned at my blog website.
 
 I'm:
 
-- An rubbish undergraduate.
+- A rubbish undergraduate.
 - Someone focusing on Deep learning technique for Computer Vision.
 - Poor Latex speaker.
 - Using Python & C++, Learning Go and Java.
