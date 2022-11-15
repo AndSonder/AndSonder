@@ -6,7 +6,7 @@ I'm `Chang Lu` aka `Sonder`
 
 I'm:
 
-- A rubbish undergraduate.
+- A rubbish graduate.
 - Someone focusing on Deep learning technique for Computer Vision.
 - Poor Latex speaker.
 - Using Python & C++, Learning Go and Java.
