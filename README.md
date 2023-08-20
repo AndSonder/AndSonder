@@ -1,3 +1,5 @@
+![image](https://github.com/AndSonder/AndSonder/assets/55493212/a39678e7-09de-4b07-8bc9-2621d258efd7)
+
 ### Hi there , I'm sonder
 
 I'm `Chang Lu` aka `Sonder`  
