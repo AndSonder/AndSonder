@@ -25,4 +25,12 @@ My Interesting Websites:
 - CUDA Beginner's Guide: [https://cuda.keter.top](https://cuda.keter.top)
 - My PR Dashboard: [https://pr-dashboard.keter.top/](https://pr-dashboard.keter.top/)
 
+My contributed GitHub repositories:
+
+[![PaddlePaddle](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=Paddle)](https://github.com/PaddlePaddle/Paddle)
+[![openvino](https://github-readme-stats.vercel.app/api/pin/?username=openvinotoolkit&repo=openvino)](https://github.com/openvinotoolkit/openvino)
+[![PaddleNLP](https://github-readme-stats.vercel.app/api/pin/?username=PaddlePaddle&repo=PaddleNLP)](https://github.com/PaddlePaddle/PaddleNLP)
+
+
+
  ![](profile-3d-contrib/profile-south-season-animate.svg)
