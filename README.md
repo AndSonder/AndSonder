@@ -9,7 +9,6 @@ I'm:
 - A rubbish graduate student.
 - Interested in high performance computing.
 - ~~Someone focusing on Deep learning technique for Computer Vision.~~
-- Poor Latex speaker.
 - Using Python & C++.
 - Trying to become a senior engineer.
 
